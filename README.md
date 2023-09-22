@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=endrewsouza.endrewsouza" />
+
 # Oi, eu sou o Endrew 
  Estou atualmente cursando Análise e Desenvolvimento de Sistemas e atualmente estou no 1° período
 
