@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=endrewsouza.endrewsouza" />
-
-# Oi, eu sou o Endrew 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi!+👋;+Eu sou o+Endrew+Souza!;" />
+</h1>
  Estou atualmente cursando Análise e Desenvolvimento de Sistemas e atualmente estou no 1° período
 
 Aqui você pode acompanhar alguns projetos e exercícios que fiz na faculdade.
