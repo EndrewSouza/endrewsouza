@@ -1,5 +1,5 @@
 # Oi, eu sou o Endrew 
- estou atualmente cursando Análise e Desenvolvimento de Sistemas e atualmente estou no 1° período
+ Estou atualmente cursando Análise e Desenvolvimento de Sistemas e atualmente estou no 1° período
 
 Aqui você pode acompanhar alguns projetos e exercícios que fiz na faculdade.
 <br>
@@ -30,7 +30,14 @@ Aqui você pode acompanhar alguns projetos e exercícios que fiz na faculdade.
   <a href="https://www.linkedin.com/in/endrew-souzaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
    
-  ![Snake animation](https://github.com/endrewsouzaa/endrewsouzaa/blob/output/github-contribution-grid-snake.svg)
+  uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_endrewsouza }}
+
+  
+
+  env:
+    GITHUB_TOKEN: ${{ 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 }}
  
 
 
