@@ -1,6 +1,0 @@
-uses: Platane/snk@v3
-with:
- github_user_name: ${{ github.repository_endrewsouza }}
-   env:
-GITHUB_TOKEN: ${{ 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 }}
- 
