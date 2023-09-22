@@ -4,9 +4,9 @@ estudante de Análise e Desenvolvimento de Sistemas e atualmente estou no 1° pe
 Aqui você pode acompanhar alguns projetos e exercícios que fiz na faculdade.
 
 <div align="center">
-  <a href="https://github.com/endrewsouzaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endrewsouzaa&show_icons=true&theme=codestackr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsouzaa&layout=compact&langs_count=7&theme=codestackr"/>
+  <a href="https://github.com/endrewsouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endrewsouza&show_icons=true&theme=codestackr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsouza&layout=compact&langs_count=7&theme=codestackr"/>
 </div>
  
  <br><br>
