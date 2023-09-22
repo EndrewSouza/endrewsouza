@@ -1,12 +1,14 @@
-# Oi, eu sou o Endrew Souza
-estudante de Análise e Desenvolvimento de Sistemas e atualmente estou no 1° período
+# Oi, eu sou o Endrew 
+ estou atualmente cursando Análise e Desenvolvimento de Sistemas e atualmente estou no 1° período
 
 Aqui você pode acompanhar alguns projetos e exercícios que fiz na faculdade.
+<br>
+
 
 <div align="center">
   <a href="https://github.com/endrewsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endrewsouza&show_icons=true&theme=codestackr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsouza&layout=compact&langs_count=7&theme=codestackr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endrewsouza&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsouza&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
  
  <br><br>
