@@ -8,6 +8,7 @@ Aqui você pode acompanhar alguns projetos e exercícios que fiz na faculdade.
 <div align="left">
   <a href="https://github.com/endrewsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endrewsouza&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/></div> 
+   <br>
    <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewsouza&layout=compact&langs_count=7&theme=apprentice"/>
    </div>
