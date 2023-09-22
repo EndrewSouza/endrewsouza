@@ -6,6 +6,8 @@
  Estou atualmente cursando Análise e Desenvolvimento de Sistemas e atualmente estou no 1° período
 
 Aqui você pode acompanhar alguns projetos e exercícios que fiz na faculdade.
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
 <br>
 
 
