@@ -32,16 +32,7 @@ Aqui você pode acompanhar alguns projetos e exercícios que fiz na faculdade.
   <a href="https://www.linkedin.com/in/endrew-souzaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
    
-  uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_endrewsouza }}
-
-  
-
-  env:
-    GITHUB_TOKEN: ${{ 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 }}
  
-
 
 <!--
 **EndrewSouza/endrewsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
