@@ -4,7 +4,7 @@
 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/endrew-souzaa)](https://www.linkedin.com/in/seu-perfil-aqui) [![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:endrewsoouza@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/endrew-souzaa)](https://www.linkedin.com/in/seu-perfil-aqui) [![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:endrewsoouza@gmail.com)](mailto:endrewsoouza@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endrewsouza" alt="endrewsouza" /> </p>
 
 <div style="text-align: right">Existem 10 tipos de pessoas no mundo. As que entendem Binário e as que não... </div>
