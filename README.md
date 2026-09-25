@@ -1,4 +1,4 @@
-## Olá, [Endrew aqui!](https://github.com/endrewsouza) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Bem-vindo ao meu espaço no Mundo Digital..</h1> 
 
