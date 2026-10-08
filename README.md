@@ -20,7 +20,7 @@
 src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
  ## Ferramentas e Frameworks
-*(Adapte com as ferramentas do seu dia a dia)*
+
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> 
 <img src='https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/burpsuite.png' width='33' />
